@@ -124,7 +124,6 @@ function InfoStatus(props) {
   return(
     <div className='Info-status'>
     <h3>Kim Yonghwan</h3>
-    <p>Want deleteButton</p>
     <p>From Waseda University</p>
     <p>School of Social Science</p>
     <p>Now on Asia Info.</p>
